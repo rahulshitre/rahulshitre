@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Shitre</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
-<img align="right" alt"coding" width="400" src="https://github.com/Oussamayousre/Oussamayousre.gif">
+<img align="right" alt"coding" width="400" src="![image](https://github.com/rahulshitre/rahulshitre/assets/109854618/558eb7e3-0922-4aec-adc6-ae3087bb1035)
+
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulshitre&label=Profile%20views&color=0e75b6&style=flat" alt="rahulshitre" /> </p>
 

@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulshitre&label=Profile%20views&color=0e75b6&style=flat" alt="rahulshitre" /> </p>
 
-- 🔭 I’m currently working on **Javascript and React**
+- 🔭 I’m currently working on **My Portfolio Website**
 
 - 🌱 I’m currently learning **React**
 

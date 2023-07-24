@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML CSS**
+- 💬 Ask me about **HTML CSS Javascript and React**
 
 - 📫 How to reach me **shitrerahul08@gmail.com**
 
-- ⚡ Fun fact **I like designing**
+- ⚡ Fun fact **I like Photography and designing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

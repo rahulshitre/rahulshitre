@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Three.js**
 
-- 💬 Ask me about **HTML CSS Javascript and React**
+- 💬 Ask me about **HTML CSS Javascript React Nodejs**
 
 - 📫 How to reach me **shitrerahul08@gmail.com**
 
